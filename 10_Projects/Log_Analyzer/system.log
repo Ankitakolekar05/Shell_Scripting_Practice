@@ -1,0 +1,9 @@
+INFO: System Started
+INFO: CAN Initialized
+WARNING: Low Memory
+INFO: Sensor Ready
+ERROR: CAN Timeout
+INFO: Message Received
+WARNING: CPU Temperature High
+ERROR: Sensor Failure
+INFO: Shutdown Complete
